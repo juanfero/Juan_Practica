@@ -13,3 +13,6 @@ if pipe > nicolle:
 	print("mentira")
 else:
 	print("correcto")
+
+#lo que hice esta bien. 
+#saludos 
